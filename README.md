@@ -1,17 +1,6 @@
 <div align="center">
 
-# 🤖 CloneMe
-### *Your AI Personality, Perfected*
-
-<img src="assets/CloneMe.png" alt="CloneMe Logo" width="200" height="200" />
-
-> **Transform any AI into your perfect digital twin**  
-> Advanced memory • Natural conversations • Multi-platform magic ✨
-
-[![Python](https://img.shields.io/badge/Python-3.11.6+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Discord](https://img.shields.io/badge/Discord-Live%20Now-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4%20Ready-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
-[![Contributors](https://img.shields.io/badge/Contributors-Welcome-brightgreen?style=for-the-badge&logo=github)](CONTRIBUTING.md)
+# Behavioural Mapping
 
 ---
 
@@ -660,21 +649,4 @@ graph TB
 
 </details>
 
-### Getting Help
 
-<div align="center">
-
-| Support Type | Link |
-|--------------|------|
-| 🐛 **Bug Reports** | [Create Issue](https://github.com/vibheksoni/cloneme/issues/new?template=bug_report.md) |
-| 💡 **Feature Requests** | [Request Feature](https://github.com/vibheksoni/cloneme/issues/new?template=feature_request.md) |
-| 💬 **Community Support** | [Join Discord](https://discord.gg/b7AXNvvx73) |
-| 📖 **Documentation** | [View Docs](https://github.com/vibheksoni/cloneme/tree/main/docs) |
-
-</div>
-
-## License
-
-This project is licensed under the MIT License with attribution requirements - see the [LICENSE](LICENSE) file for details.
-
-**Attribution Requirement**: Any use, modification, or distribution must include proper attribution to the original CloneMe project and link to https://github.com/vibheksoni/cloneme 
